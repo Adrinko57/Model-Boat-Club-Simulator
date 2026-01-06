@@ -241,20 +241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4385f3f32ee5acd469979ee445ac7134, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  width: 42
-  length: 32
-  SpawningCount: 64
-  boatHouseA: {fileID: 1138331384927246, guid: f4fd60554feb830408409b09d8c5f2d0, type: 3}
-  boatHouseB: {fileID: 1138331384927246, guid: 9d1d0b91403a8814ab6853947579bad9, type: 3}
-  boatHouseC: {fileID: 1138331384927246, guid: be18bd8f4343bb14daad0d183019b6aa, type: 3}
-  maxSpeed: 6
-  steeringSpeed: 4.5
-  maxForce: 0.03
-  neighborhoodRadius: 4
-  separationRadius: 2.4
-  separationAmount: 1.1
-  cohesionAmount: 0.3
-  alignmentAmount: 0.5
+  BoatPara: {fileID: 11400000, guid: d939fd0b8d33a9c4fab161dff5c23180, type: 2}
 --- !u!4 &576343055
 Transform:
   m_ObjectHideFlags: 0
