@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 32ecde1e3044dab40905a76b883bda10, type: 3}
-  m_Name: SO_BoatParameters
+  m_Name: SO_BoatParametersBateauAVoile
   m_EditorClassIdentifier: Assembly-CSharp::SO_BoatParameters
   width: 16
   length: 9
   SpawningCount: 30
-  boatHouseA: {fileID: 919132149155446097, guid: 10d92fbe64d7e7243b3fd8cec30b8eae,
+  boatHouseA: {fileID: 919132149155446097, guid: c760c6d3444d84d42b636c40fedd2a04,
     type: 3}
-  boatHouseB: {fileID: 919132149155446097, guid: f0d94e6c5c904d14690ca7b63c45e091,
+  boatHouseB: {fileID: 919132149155446097, guid: f822160da6d78ea409b7f323b734e95c,
     type: 3}
-  boatHouseC: {fileID: 919132149155446097, guid: 16feb6c12fb0c214cb37a51a70493a2f,
+  boatHouseC: {fileID: 2903647163238708039, guid: 1dc54deeee19bf84cb93a4d3c7b221dc,
     type: 3}
   maxSpeed: 6
   steeringSpeed: 4.5
